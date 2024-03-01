@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ApprenticeManagement
+build_property.RootNamespace = ApprenticeManagement
+build_property.ProjectDir = C:\Users\U60949\Dokumente (Informatik)\Projekte\OOP\ApprenticeManagement\ApprenticeManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\U60949\Dokumente (Informatik)\Projekte\OOP\ApprenticeManagement\ApprenticeManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentices/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentices/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentice_Parent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZV9QYXJlbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentice_Parent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZV9QYXJlbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentice_Parent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZV9QYXJlbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentice_Parent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZV9QYXJlbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Apprentice_Parent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwcmVudGljZV9QYXJlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Contracts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Contracts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Contracts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Contracts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Contracts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Parents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Parents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Parents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Parents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Parents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/U60949/Dokumente (Informatik)/Projekte/OOP/ApprenticeManagement/ApprenticeManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iapcnmskoq
